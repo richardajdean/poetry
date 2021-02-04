@@ -3,11 +3,12 @@ body {
 }
 
 .poem-link-list {
-  list-style-type: square;
+  padding: 0;
+  list-style-type: none;
 }
 
 .poem-link {
-  padding: 1em;
+  padding-bottom: 1em;
 }
 
 a {
