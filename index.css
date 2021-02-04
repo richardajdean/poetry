@@ -1,0 +1,15 @@
+body {
+  font-family: 'Archivo Black', sans-serif;
+}
+
+.poem-link-list {
+  list-style-type: square;
+}
+
+.poem-link {
+  padding: 1em;
+}
+
+a {
+  text-decoration: none;
+}
