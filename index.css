@@ -1,5 +1,21 @@
 body {
   font-family: 'Archivo Black', sans-serif;
+  background: blue;
+  font-size: 1.5em;
+}
+
+.header-name {
+  margin: 0;
+  background: orange;
+}
+
+.bio {
+  margin: 0;
+  background: white;
+}
+
+.poem-header {
+  background: yellow;
 }
 
 .poem-link-list {
@@ -13,4 +29,14 @@ body {
 
 a {
   text-decoration: none;
+  background: lightgreen;
+  color: black;
+}
+
+.bottom-link {
+  padding-bottom: 0;
+}
+
+.email {
+  background: red;
 }
