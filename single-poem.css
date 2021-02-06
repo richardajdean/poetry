@@ -20,11 +20,15 @@ body {
 }
 
 .poem-title {
+  margin-bottom: 0;
   font-size: 2rem;
   background-color: #00B600; /* nice green */
 }
 
-.poem {
+.poem-wrapper {
+  padding-top: .5em;
+  padding-bottom: .5em;
+  font-size: 1.25rem;
   background-color: #FFFFFF; /* white */
 }
 

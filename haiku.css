@@ -25,11 +25,16 @@ body {
   background-color: #00B600; /* nice green */
 }
 
+.poem-wrapper {
+  padding-top: .5em;
+  padding-bottom: .5em;
+  background-color: #FFFFFF; /* white */
+}
+
 .haiku {
   margin-top: 1em;
   margin-bottom: 1em;
   font-size: 1.25rem;
-  background-color: #FFFFFF; /* white */
 }
 
 .poem-line {
