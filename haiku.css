@@ -28,6 +28,7 @@ body {
 .haiku {
   margin-top: 1em;
   margin-bottom: 1em;
+  font-size: 1.25rem;
   background-color: #FFFFFF; /* white */
 }
 
