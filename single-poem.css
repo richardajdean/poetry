@@ -7,6 +7,11 @@ body {
   background-color: #0000FF; /* blue */
 }
 
+body * {
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+}
+
 .header-name {
   padding-left: .5em;
   margin: 0;
