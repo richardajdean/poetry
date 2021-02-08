@@ -3,17 +3,3 @@ body {
   font-family: "Archivo Black", sans-serif;
   font-size: 2em;
 }
-
-a {
-  text-decoration: none;
-}
-
-.header-nam {
-  margin-bottom: 0;
-}
-
-.header-lin {
-  margin-top: 0;
-  margin-bottom: 1em;
-  padding: 0;
-}

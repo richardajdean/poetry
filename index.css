@@ -9,6 +9,7 @@
 }
 
 .poem-link {
-  color: #000;
-  background-color: #0b0; /* bright green */
+  text-decoration: none;
+  background-color: #00f;
+  color: #fff;
 }
