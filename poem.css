@@ -1,13 +1,8 @@
 .poem-title {
-  margin-bottom: 0;
   background-color: #0b0; /* bright green */
 }
 
-.haiku {
-  padding-top: 1em;
-}
-
-.poem-wrapper {
+.haiku, .poem-wrapper {
   padding-bottom: 1em;
 }
 
