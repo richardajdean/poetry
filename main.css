@@ -8,11 +8,12 @@ a {
   text-decoration: none;
 }
 
-.header-name {
+.header-nam {
   margin-bottom: 0;
 }
 
-.header-link {
-  margin: 0;
+.header-lin {
+  margin-top: 0;
+  margin-bottom: 1em;
   padding: 0;
 }
