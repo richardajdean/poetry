@@ -5,11 +5,5 @@
   list-style-type: none;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
-  grid-gap: 1em;
-}
-
-.poem-link {
-  text-decoration: none;
-  background-color: #00f;
-  color: #fff;
+  border-top: 5px solid #000;
 }
