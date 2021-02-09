@@ -8,6 +8,10 @@ a {
   font-style: italic;
 }
 
+a:visited {
+  color: #00f;
+}
+
 .copyright {
   font-size: .75em;
 }
